@@ -24,3 +24,7 @@ body {
     padding: 0px 24px;
     margin: 16px 64px;
 }
+
+.menu-item {
+    text-align: center !important;
+}
